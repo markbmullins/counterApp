@@ -1,4 +1,5 @@
-![](./images/react-logo =250x250)
+<img src="./images/react-logo" alt="alt text" width="300" height="300">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [Here](./create-react-app.md) you can see the Create React App standard readme.
