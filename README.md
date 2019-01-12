@@ -1,4 +1,4 @@
-<img src="./images/react-logo" alt="alt text" width="300" height="300">
+![test image size](./images/reactlogo.png){:height="50%" width="50%"}
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
