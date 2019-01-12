@@ -6,6 +6,12 @@ For this react project, I followed along with this YouTube Video:
 
 [![image not found](https://img.youtube.com/vi/Ke90Tje7VS0/0.jpg)](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 
+# Extensions from video
+
+After watching the video, I decided to play with extending this simple cart UI. I added a button to decrement the counter, which was based off the previously implemented increment button. In addition to the "Number of Unique Items" in the navbar, I added a total count of the items in this sample cart. This required me to add another item in the state, `sum` and make sure to update that sum whenever an item is incremented, decremented, deleted, or the reset button is pressed.
+
+![Additions](./images/demo.gif)
+
 # Topics Learned
 
 In this video lecture I learned about:
