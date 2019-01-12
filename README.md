@@ -43,8 +43,9 @@ In this video lecture I learned about:
 - Updating Phase
 - Unmounting Phase
 
-# Here are the notes I took while following along with the video:
+# Notes
 
+Here are the notes I took while following along with the video:
 [Link](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 
 React is a JS Libraary vs. Angular is a Framework
