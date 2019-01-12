@@ -1,10 +1,10 @@
-<img src="https://github.com/markbmullins/counterApp/blob/master/images/react-logo.png" width="600" height="200">
+<img src="https://github.com/markbmullins/counterApp/blob/master/images/react-logo.png" width="30%" height="50%">
 
-<img src="https://github.com/markbmullins/counterApp/blob/master/images/bootstrap-logo.png" width="200" height="200">
+<img src="https://github.com/markbmullins/counterApp/blob/master/images/bootstrap-logo.png" width="25%" height="50%">
 
-<img src="https://github.com/markbmullins/counterApp/blob/master/images/js_logo.png" width="200" height="200">
+<img src="https://github.com/markbmullins/counterApp/blob/master/images/js_logo.png" width="25%" height="50%">
 
-<img src="https://github.com/markbmullins/counterApp/blob/master/images/node-logo.png" width="600" height="200">
+<img src="https://github.com/markbmullins/counterApp/blob/master/images/node-logo.png" width="30%" height="50%">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
