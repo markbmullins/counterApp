@@ -1,4 +1,4 @@
-![test image size](./images/reactlogo.png){:height="50%" width="50%"}
+<img src="https://github.com/markbmullins/counterApp/blob/master/images/react-logo.png" width="700" height="300">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
