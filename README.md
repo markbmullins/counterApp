@@ -1,10 +1,8 @@
 <img src="https://github.com/markbmullins/counterApp/blob/master/images/react-logo.png" width="25%" height="50%">&nbsp;<img src="https://github.com/markbmullins/counterApp/blob/master/images/bootstrap-logo.png" width="15%" height="20%"><img src="https://github.com/markbmullins/counterApp/blob/master/images/js_logo.png" width="15%" height="20%"><img src="https://github.com/markbmullins/counterApp/blob/master/images/node-logo.png" width="25%" height="50%">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). [Here](./create-react-app.md) you can see the Create React App standard readme.
 
-[Here](./create-react-app.md) you can see the Create React App standard readme.
-
-For this react project, I followed along with this YouTube Video.
+For this react project, I followed along with this YouTube Video:
 
 [![image not found](https://img.youtube.com/vi/Ke90Tje7VS0/0.jpg)](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 
